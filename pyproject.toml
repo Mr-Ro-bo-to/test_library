@@ -1,5 +1,5 @@
 [project]
-name = "myproject-core"
+name = "myproject-library"
 version = "0.1.0"
 
 [build-system]
